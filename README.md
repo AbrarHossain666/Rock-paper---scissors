@@ -1,2 +1,2 @@
 # Rock paper & scissors
- game
+ A basic game created using HTML, CSS & JAVASCRIPT 
